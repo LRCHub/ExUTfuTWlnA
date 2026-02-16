@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "全方向迷子カタログ",
+  "base_artist": "シーカー（CV.楠木ともり）",
+  "createdAt": "2026-02-16T04:55:38.915658Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "全方向迷子カタログ",
+      "artist": "シーカー(CV.楠木ともり)",
+      "has_synced": false,
+      "path": "select/pl_01_全方向迷子カタログ_シーカー(CV.楠木ともり).txt"
+    }
+  ]
+}
